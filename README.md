@@ -11,4 +11,14 @@ Scenario 2:
         -Launching Browser and passing login credentials
     *AdminPageFuntionalitiesthroughPageObjectModel
          -Search functionalities in admin page.
+
+
+
+Ecommerce:
+Scenario 1:
+--Modules:
+    *D10Practice Test Client
+        Launching the browse and Login credentials
+    *Practice Test Utility class
+        Shopping funtionalities.
   
